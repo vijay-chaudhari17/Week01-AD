@@ -22,10 +22,10 @@ com.example.helloworld.app-core-1.9.0-20 /home/vijay/.gradle/caches/transforms-3
 com.example.helloworld.app-emoji2-1.2.0-21 /home/vijay/.gradle/caches/transforms-3/e693720e25bce053a512218495b98530/transformed/emoji2-1.2.0/res
 com.example.helloworld.app-savedstate-1.2.0-22 /home/vijay/.gradle/caches/transforms-3/f3808884c28974c19e4a5d900acfa532/transformed/savedstate-1.2.0/res
 com.example.helloworld.app-lifecycle-viewmodel-2.5.1-23 /home/vijay/.gradle/caches/transforms-3/fb5469fd047018b238970ecda3197444/transformed/lifecycle-viewmodel-2.5.1/res
-com.example.helloworld.app-pngs-24 /home/vijay/Documents/GitHub/HelloAndroid/app/build/generated/res/pngs/debug
-com.example.helloworld.app-resValues-25 /home/vijay/Documents/GitHub/HelloAndroid/app/build/generated/res/resValues/debug
-com.example.helloworld.app-packageDebugResources-26 /home/vijay/Documents/GitHub/HelloAndroid/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.helloworld.app-packageDebugResources-27 /home/vijay/Documents/GitHub/HelloAndroid/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.helloworld.app-merged_res-28 /home/vijay/Documents/GitHub/HelloAndroid/app/build/intermediates/merged_res/debug
-com.example.helloworld.app-debug-29 /home/vijay/Documents/GitHub/HelloAndroid/app/src/debug/res
-com.example.helloworld.app-main-30 /home/vijay/Documents/GitHub/HelloAndroid/app/src/main/res
+com.example.helloworld.app-pngs-24 /home/vijay/Documents/GitHub/Week01-AD/app/build/generated/res/pngs/debug
+com.example.helloworld.app-resValues-25 /home/vijay/Documents/GitHub/Week01-AD/app/build/generated/res/resValues/debug
+com.example.helloworld.app-packageDebugResources-26 /home/vijay/Documents/GitHub/Week01-AD/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.helloworld.app-packageDebugResources-27 /home/vijay/Documents/GitHub/Week01-AD/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.helloworld.app-merged_res-28 /home/vijay/Documents/GitHub/Week01-AD/app/build/intermediates/merged_res/debug
+com.example.helloworld.app-debug-29 /home/vijay/Documents/GitHub/Week01-AD/app/src/debug/res
+com.example.helloworld.app-main-30 /home/vijay/Documents/GitHub/Week01-AD/app/src/main/res

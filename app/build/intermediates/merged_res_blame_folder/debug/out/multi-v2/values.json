@@ -4,6 +4,25 @@
             "outputFile": "com.example.helloworld.app-mergeDebugResources-26:/values/values.xml",
             "map": [
                 {
+                    "source": "/home/vijay/Documents/GitHub/Week01-AD/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "799"
+                    },
+                    "to": {
+                        "startLines": "5992",
+                        "startColumns": "4",
+                        "startOffsets": "415177",
+                        "endLines": "6004",
+                        "endColumns": "12",
+                        "endOffsets": "415755"
+                    }
+                },
+                {
                     "source": "/home/vijay/.gradle/caches/transforms-3/0565a83d11e2ccad119dc2d121643afa/transformed/viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -20,23 +39,6 @@
                         "endLines": "11887",
                         "endColumns": "24",
                         "endOffsets": "730884"
-                    }
-                },
-                {
-                    "source": "/home/vijay/Documents/GitHub/HelloAndroid/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "1717",
-                        "startColumns": "4",
-                        "startOffsets": "111815",
-                        "endColumns": "47",
-                        "endOffsets": "111858"
                     }
                 },
                 {
@@ -152,6 +154,23 @@
                     }
                 },
                 {
+                    "source": "/home/vijay/Documents/GitHub/Week01-AD/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "1717",
+                        "startColumns": "4",
+                        "startOffsets": "111815",
+                        "endColumns": "47",
+                        "endOffsets": "111858"
+                    }
+                },
+                {
                     "source": "/home/vijay/.gradle/caches/transforms-3/9e2e05d2b7a3f4b369c4cf1551f7cfa8/transformed/appcompat-resources-1.6.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -187,23 +206,6 @@
                         "endLines": "398,533,534,781,782,895,896,897,898,899,900,901,1492,1493,1494,1495,1496,1497,1498,1499,1500,1501,1502,1503,1504,1505,1506,1517,1518,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1529,1530,1531,1532,1533,1534,1535,1536,1537,1538,1539,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1561,1562,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1612,1684,1853,5641,5645,5646,5650,5651,6737,6738,9559,9909,10170,10191,10239,10245",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "20539,27514,27602,45523,45586,53074,53142,53214,53284,53345,53419,53492,98019,98080,98142,98206,98268,98329,98397,98497,98557,98623,98696,98765,98822,98874,98936,99738,99814,99879,99938,99997,100057,100117,100177,100237,100297,100357,100417,100477,100537,100597,100656,100716,100776,100836,100896,100956,101016,101076,101136,101196,101256,101315,101375,101435,101494,101553,101612,101671,101730,101789,102273,102308,103805,103868,103923,103981,104039,104100,104163,104220,104271,104321,104382,104439,104505,104539,104574,104956,109541,131268,393626,393827,393937,394138,394267,470640,470707,623878,635596,659261,659942,661168,661335"
-                    }
-                },
-                {
-                    "source": "/home/vijay/Documents/GitHub/HelloAndroid/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "539,791,792,793,804,805,808",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "27926,46179,46226,46273,47017,47062,47228",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "27963,46221,46268,46315,47057,47102,47265"
                     }
                 },
                 {
@@ -279,22 +281,20 @@
                     }
                 },
                 {
-                    "source": "/home/vijay/Documents/GitHub/HelloAndroid/app/src/main/res/values/themes.xml",
+                    "source": "/home/vijay/Documents/GitHub/Week01-AD/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "799"
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
                     },
                     "to": {
-                        "startLines": "5992",
-                        "startColumns": "4",
-                        "startOffsets": "415177",
-                        "endLines": "6004",
-                        "endColumns": "12",
-                        "endOffsets": "415755"
+                        "startLines": "539,791,792,793,804,805,808",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "27926,46179,46226,46273,47017,47062,47228",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "27963,46221,46268,46315,47057,47102,47265"
                     }
                 },
                 {
